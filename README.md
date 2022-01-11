@@ -3,7 +3,7 @@
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-laura-court-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
+[![LinkedinBadge](https://img.shields.io/badge/-laura-court-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
   
 I am currently:
 
