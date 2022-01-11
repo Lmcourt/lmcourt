@@ -26,7 +26,7 @@ Fun fact:
 <hr></hr>
 </div>
 
-<h3 align="center">💾 Working with</h3>
+<h3 align="center">💾 Currently working with</h3>
 <div align="center">
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
@@ -41,7 +41,7 @@ Fun fact:
 <hr></hr>
 </div>
 
-<h3 align="center">💻 Exploring</h3>
+<h3 align="center">💻 Also exploring</h3>
 <p align="center">
 <div align="center" >
 
