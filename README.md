@@ -3,7 +3,7 @@
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-<p align="center">[![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")</p>
+<p align="center">![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")</p>
 
 I am currently:
 
@@ -34,6 +34,7 @@ I am currently:
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku)
 ![TravisCI](https://img.shields.io/badge/travisci-%232B2F33.svg?style=flat&logo=travis&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+</p>
 <hr></hr>
 </div>
 
@@ -44,4 +45,4 @@ I am currently:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![javascript](https://img.shields.io/badge/-Javascript-yellow)
 ![graphql](https://img.shields.io/badge/-GraphQL-blue)
-
+</div>
