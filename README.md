@@ -3,7 +3,7 @@
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-kevinmugele-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
+[![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
 
 I am currently:
 
@@ -41,5 +41,6 @@ I am currently:
 <div align="center" >
 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![javascript](https://img.shields.io/badge/-Javascript-yellow)
 ![graphql](https://img.shields.io/badge/-GraphQL-blue)
-href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+
