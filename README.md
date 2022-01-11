@@ -1,7 +1,7 @@
 <h3 align="center">👋 HI, I'm Laura. Welcome to my github!</h3>
 <h4 align="center">Software developer for positive social impact</h4>
 
-<h3 align="center">🖇 Connect With Me [linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) </h3>
+<h3 align="center">🖇 Connect With Me </h3>
 
 
 I am currently:
