@@ -2,8 +2,9 @@
 <h4 align="center">Software developer for positive social impact</h4>
 
 <h3 align="center">🖇 Connect With Me </h3>
-![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
+[![Linkedin Badge](https://img.shields.io/badge/-laura-court-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
+  
 I am currently:
 
 - Wrapping up at Turing School of Software and Design
