@@ -14,7 +14,7 @@ I am currently:
 
 Fun fact:
 
-**Saying "I'm hilarious" instantly makes every joke funnier.**
+**Saying "I'm hilarious" instantly makes every joke funnier**
 
 <br>
 
