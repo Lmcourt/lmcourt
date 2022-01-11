@@ -3,14 +3,15 @@
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-[![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
+<p align="center">[![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")</p>
 
 I am currently:
 
 - Working on a bullet journal application called [**GlowUp**](https://github.com/bullet-capstone/glow-up-be)
 - Expanding my knowledge of GraphQL, React, and Javascript
 
-- ⚡ Fun fact **Saying "I'm hilarious" makes every joke funnier.**
+
+⚡ Fun fact **Saying "I'm hilarious" makes every joke funnier.**
 
 
 <div align="center" >
@@ -21,7 +22,7 @@ I am currently:
 <hr></hr>
 </div>
 
-<h3 align="center">💾 </h3>
+<h3 align="center">💾 Working with</h3>
 <p align="center">
 
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white)
