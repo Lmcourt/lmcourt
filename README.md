@@ -1,11 +1,11 @@
-<h3 align="center">HI, I'm Laura. Welcome to my github!</h3>
+<h3 align="center">👋 HI, I'm Laura. Welcome to my github!</h3>
 <h4 align="center">Software developer for positive social impact</h4>
 
 <h3 align="center">🖇 Connect With Me </h3>
 
-<div align="center" >
+
 [![Linkedin Badge](https://img.shields.io/badge/-lauracourt-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/laura-court/ "Connect on LinkedIn")
-</div>
+
 
 I am currently:
 
