@@ -4,10 +4,6 @@
 <h3 align="center">🖇 Connect With Me 
   <a href="https://linkedin.com/in/laura-court" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="laura-court" height="30" width="60" /></a>
 </h3>
-
-<!-- <p align="center">
-<a href="https://linkedin.com/in/laura-court" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="laura-court" height="30" width="60" /></a>
-</p> -->
   
 I am currently:
 
@@ -16,8 +12,11 @@ I am currently:
 - Expanding my knowledge of GraphQL, React, and Javascript
 
 
-⚡ Fun fact **Saying "I'm hilarious" makes every joke funnier.**
+⚡ Fun fact:
 
+**Saying "I'm hilarious" makes every joke funnier.**
+
+<br>
 
 <div align="center" >
 <a  href="https://github.com/lmcourt">
