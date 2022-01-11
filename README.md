@@ -1,11 +1,13 @@
 <h3 align="center">👋 HI, I'm Laura. Welcome to my github!</h3>
 <h4 align="center">Software developer for positive social impact</h4>
 
-<h3 align="center">🖇 Connect With Me </h3>
+<h3 align="center">🖇 Connect With Me 
+  <a href="https://linkedin.com/in/laura-court" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="laura-court" height="30" width="60" /></a>
+</h3>
 
-<p align="center">
-<a href="https://linkedin.com/in/laura-court" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="laura-court" height="30" width="40" /></a>
-</p>
+<!-- <p align="center">
+<a href="https://linkedin.com/in/laura-court" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="laura-court" height="30" width="60" /></a>
+</p> -->
   
 I am currently:
 
