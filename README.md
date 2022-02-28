@@ -7,9 +7,9 @@
   
 I am currently:
 
-- Wrapping up at Turing School of Software and Design
-- Working on a bullet journal application called [**GlowUp**](https://github.com/bullet-capstone/glow-up-be)
-- Expanding my knowledge of GraphQL, React, and Javascript
+- Creating a portfolio website using React
+- Building an anime social networking app
+- Consistently thinking about the next project I want to dive into
 
 
 Fun fact:
