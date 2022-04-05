@@ -9,6 +9,7 @@ I am currently:
 
 - Creating a portfolio website using React
 - Building an anime social networking app
+- Learning JavaScript with a "Last time I..."(vacuumed, changed air filter, etc) app
 - Consistently thinking about the next project I want to dive into
 
 
